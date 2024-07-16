@@ -21,7 +21,7 @@
 
 ### Exercícios
 
-Após concluir cada questão, faça _commit_ do projeto localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub.
+Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura]().
 
 0. Crie o projeto java (Create Java Project) no VSCode em uma pasta dentro do seu repositório da disciplina. O nome do projeto deve ser ap3_seunome
 
