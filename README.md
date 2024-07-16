@@ -10,15 +10,27 @@ Repositório da Disciplina Algoritmos e Programação 3 da UFERSA Angicos no sem
 
 ## Aula 1 - Git, GitHub, Configuração do Ambiente e Olá Mundo.
 
-Configuração do ambiente e Olá Mundo em Java [aqui](unidade1/exercicio1.md), feito em sala de aula.
+Configuração do ambiente e Olá Mundo em Java [aqui](unidade1/aula1.md), feito em sala de aula.
 
-## Aula 2 - Git, GitHub e Exercícios
+## Aula 2 - Controle de Versão e Classes
 
-Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/exercicio2.md).
+Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md), feito em sala de aula.
 
-## Exercício 3 - Visibilidade de atribuos
+## Aula 3 - Visibilidade de atribuos
 
-Visibilidade e Scanner com [exercícios](unidade1/exercicio3.md).
+Visibilidade e Scanner com [exercícios](unidade1/aula3.md).
+
+## Exercício 1 - 1,0 ponto se entregar até ??/??/2024
+
+Fazer os [exercícios](unidade1/exercício1.md).
+
+## Exercício 2 - 2,0 pontos se entregar até ??/??/2024
+
+Fazer os [exercícios](unidade1/exercício2.md).
+
+## Exercício 3 - 2,0 pontos se entregar até ??/??/2024
+
+Fazer os [exercícios](unidade1/exercício3.md).
 
 ---
 
