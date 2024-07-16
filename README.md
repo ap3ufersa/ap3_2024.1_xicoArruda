@@ -4,7 +4,6 @@ Repositório da Disciplina Algoritmos e Programação 3 da UFERSA Angicos no sem
 
 ## Material Didático da Disciplina [no gDrive](https://drive.google.com/open?id=16I2WfDFZMKDNZGPu1Wq2rl1uceQUZjr6).
 
----
 
 # Unidade 1
 
