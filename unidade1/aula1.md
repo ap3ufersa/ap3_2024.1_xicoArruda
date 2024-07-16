@@ -1,4 +1,4 @@
-# Aula 1
+# Aula 1 - 12/07/2024
 
 ### Criação da conta no GitHub
 
