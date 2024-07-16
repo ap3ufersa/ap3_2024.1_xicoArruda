@@ -1,8 +1,63 @@
-# ap3_2024.1_xicoArruda
- Exercicios de AP3 do semestre 2024.1 de Francisco Arruda da UFERSA Angicos
+# AP3 - 2024.1 - UFERSA Angicos
 
-Fiz a primeira alteração.
+Repositório da Disciplina Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.1.
 
-Fiz a segunda alteração.
+## Material Didático da Disciplina [no gDrive](https://drive.google.com/open?id=16I2WfDFZMKDNZGPu1Wq2rl1uceQUZjr6).
 
-Fiz a terceira alteração.
+---
+
+# Unidade 1
+
+## Aula 1 - Git, GitHub, Configuração do Ambiente e Olá Mundo.
+
+Configuração do ambiente e Olá Mundo em Java [aqui](unidade1/exercicio1.md), feito em sala de aula.
+
+## Aula 2 - Git, GitHub e Exercícios
+
+Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/exercicio2.md).
+
+## Exercício 3 - Visibilidade de atribuos
+
+Visibilidade e Scanner com [exercícios](unidade1/exercicio3.md).
+
+---
+
+# Unidade 2
+
+## Exercício 1 - Composição e Encapsulamento
+
+Encapsulamento de comportamentos e composição com [exercícios](unidade2/exercicio1.md), com exemplo feito em sala de aula.
+
+## Exercício 2 - Herança e Polimorfismo
+
+Herança e polimorfismo com [exercícios](unidade2/exercicio2.md), com exemplo REfeito em sala de aula.
+
+---
+
+# Unidade 3
+
+## Exercício 1 - Exceptions e Threads
+
+Exceções e Threads com [exercícios](unidade3/exercicio1.md), com exemplos mostrados em sala de aula.
+
+---
+
+## Ajuda e material de apoio
+
+### Java e POO
+
+##### [Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+
+##### [Por Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+
+##### [Por Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+
+### Git e GithHub
+
+##### [Por Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
+
+##### [Por Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+
+##### [Markdown por Gustavo Guanabara](/git_github_gguanabara)
+
+
