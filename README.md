@@ -1,8 +1,8 @@
 # AP3 - 2024.1 - UFERSA Angicos
 
-Repositório da Disciplina Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.1.
+Repositório da Disciplina Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.1 do professor Xico.
 
-Link para o material didático da disciplina [no gDrive](https://drive.google.com/open?id=16I2WfDFZMKDNZGPu1Wq2rl1uceQUZjr6). Acesso com a conta institucional.
+Link para o material didático da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Acesse com sua conta institucional.
 
 ---
 
