@@ -14,19 +14,19 @@ Configuração do ambiente e Olá Mundo em Java [aqui](unidade1/aula1.md), feito
 
 ## Aula 2 - Controle de Versão e Classes
 
-Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md), feito em sala de aula.
+Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aulaX.md), feito em sala de aula.
 
 ## Aula 3 - Visibilidade de atribuos
 
-Visibilidade e Scanner com [exercícios](unidade1/aula3.md).
+Visibilidade e Scanner com [exercícios](unidade1/aulaX.md).
 
 ## Exercício 1 - 1,0 ponto se entregar até ??/??/2024
 
-Fazer os [exercícios](unidade1/exercício1.md).
+Fazer os [exercícios](unidade1/exercícioX.md).
 
 ## Exercício 2 - 2,0 pontos se entregar até ??/??/2024
 
-Fazer os [exercícios](unidade1/exercício2.md).
+Fazer os [exercícios](unidade1/exercícioX.md).
 
 ## Exercício 3 - 2,0 pontos se entregar até ??/??/2024
 
