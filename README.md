@@ -12,7 +12,7 @@ Link para o material didático da disciplina [no gDrive](https://drive.google.co
 
 Configuração do ambiente e Olá Mundo em Java [aqui](unidade1/aula1.md), feito em sala de aula.
 
-## Aula 2 - Controle de Versão e Classes
+## Aula 2 Modificada - Controle de Versão e Classes
 
 Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md), feito em sala de aula.
 
