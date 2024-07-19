@@ -14,7 +14,7 @@ Configuração do ambiente e Olá Mundo em Java [aqui](unidade1/aula1.md), feito
 
 ## Aula 2 - Controle de Versão e Classes
 
-Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aulaX.md), feito em sala de aula.
+Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md), feito em sala de aula.
 
 ## Aula 3 - Visibilidade de atribuos
 
