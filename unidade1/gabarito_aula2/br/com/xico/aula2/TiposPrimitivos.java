@@ -83,8 +83,7 @@ public class TiposPrimitivos {
         System.out.println("str1 == str3? " + (str1 == str3));
         System.out.println("str1.equals(str3)? " + (str1.equals(str3)));
 
-        System.out.println("Endereço str1: " + System.identityHashCode(str1));
-        System.out.println("Endereço str2: " + System.identityHashCode(str2));
-        System.out.println("Endereço str3: " + System.identityHashCode(str3));
+        // Para ver os endereços, adicione no debugger
+        // System.identityHashCode(aVariavel)
     }
 }
