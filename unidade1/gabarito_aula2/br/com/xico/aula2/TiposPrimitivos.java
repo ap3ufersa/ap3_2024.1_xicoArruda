@@ -1,21 +1,72 @@
+/**
+ * Classe TiposPrimitivos
+ * 
+ * Este programa demonstra a declaração e inicialização de variáveis de todos os tipos primitivos em Java, 
+ * além de uma variável do tipo String e Integer. Ele imprime os valores dessas variáveis no console.
+ *
+ * Para mais informações sobre tipos de dados em Java, consulte:
+ * https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+ * 
+ * @author Xico
+ * @version 1.0
+ * @since 2024-07-24
+ */
+
 //fully qualified name
 package br.com.xico.aula2;
 
 public class TiposPrimitivos {
+
     public static void main(String[] args) {
-
-        byte umByte = 112;
-        short umShort = 10;
-        int umInt = 1235;
-        Integer umInteger = 1235;
-
-        System.out.println("");
-        System.out.println("Imprimindo tipos:");
-        System.out.println("umByte=" + umByte);
-        System.out.println("umShort=" + umShort);
-        System.out.println("umInt=" + umInt);
-        System.out.println("umInteger=" + umInteger);
-
+        mostrarTiposPrimitivos();
+        iguaisOuDiferentes();
     }
 
+    public static void mostrarTiposPrimitivos() {
+        byte varByte = 100;
+        short varShort = 10000;
+        int varInt = 1234;
+        Integer varInteger = 1235;
+        long varLong = 90000000000L; // Sufixo 'L' para indicar literal de long
+        float varFloat = 10.5f; // Sufixo 'f' para indicar literal de float
+        double varDouble = 20.99;
+        boolean varBoolean = true;
+        char varChar = 'A';
+
+        // Declaração e inicialização de uma variável do tipo String
+        String varString = "Olá, Java!";
+
+        // Impressão dos valores no console
+        System.out.println();
+        System.out.println("umByte: " + varByte);
+        System.out.println("umShort: " + varShort);
+        System.out.println("umInt: " + varInt);
+        System.out.println("umInteger: " + varInteger);
+        System.out.println("umLong: " + varLong);
+        System.out.println("umFloat: " + varFloat);
+        System.out.println("umDouble: " + varDouble);
+        System.out.println("umBoolean: " + varBoolean);
+        System.out.println("umChar: " + varChar);
+        System.out.println("umaString: " + varString);
+        System.out.println("umInt + umInteger = " + (varInt + varInteger));
+    }
+
+    // Primitivos: Comparações são feitas com operadores ==,<, >
+    // Classes: Usa-se o método .equals(). Usar == compararia referências de
+    // memória.
+    public static void iguaisOuDiferentes() {
+        // Comparação de tipos primitivos
+        int a = 10;
+        int b = 20;
+        System.out.println("a é igual a b? " + (a == b));
+
+        // Comparação de objetos do tipo String
+        String str1 = "Olá";
+        String str2 = "Olá";
+        String str3 = new String("Olá");
+
+        System.out.println("str1 == str2? " + str1 == str2);
+        System.out.println("str1 == str3? " + str1 == str3);
+        System.out.println("str1.equals(str3)? " + str1.equals(str3));
+    }
 }
