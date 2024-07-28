@@ -14,6 +14,6 @@ public class TestaAluno {
         if (xico.aprovadoMedia())
             System.out.println("Passou por media");
         else
-            System.out.println("Se fudeu, tirou " + xico.getMedia());
+            System.out.println("Ixe, reprovou pq tirou " + xico.getMedia());
     }
 }
