@@ -1,4 +1,4 @@
-package unidade1.gabarito_aula3;
+package br.com.xico.unidade1.gabarito_aula3;
 
 public class TestaAluno {
     public static void main(String[] args) {

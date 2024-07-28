@@ -1,6 +1,6 @@
-# Exercício 3
+# Exercício 1
 
-## Exercício - máximo 4,0 pontos se o commit no github for até 23:59h do dia 20/08/2023
+## Exercício - máximo 1,0 ponto se o commit no github for até 23:59h do dia 20/08/2023
 
 ### Exercícios
 

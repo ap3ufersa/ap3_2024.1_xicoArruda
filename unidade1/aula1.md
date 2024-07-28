@@ -23,8 +23,6 @@
 
 Após concluir cada questão, faça _commit_ localmente e sincronize-o (_push_) com o seu repositório remoto no GitHub. Conforme [figura](https://drive.google.com/open?id=1dV5TwUdMxSmh80sx13epVcJFewIT_MVk).
 
-0. Crie o projeto java (Create Java Project) no VSCode em uma pasta dentro do seu repositório da disciplina. O nome do projeto deve ser ap3_seunome
-
-1. Escreva um programa em Java que imprima a mensagem "Olá, mundo!" no console. Implemente uma classe chamada "OlaMundo", no arquivo OlaMundo.java, com um método "main". Dentro do método "main", adicione o código necessário para imprimir a mensagem "Olá, mundo!" usando a função `System.out.println()`. Ou modifique a classe App.java criada pelo VSCode.
+1. Escreva um programa em Java que imprima a mensagem "Olá, mundo!" no console. Implemente uma classe chamada "OlaMundo", no arquivo OlaMundo.java, com um método "main". Dentro do método "main", adicione o código necessário para imprimir a mensagem "Olá, mundo!" usando a função `System.out.println()`.
 
 Gabarito [aqui](https://github.com/ap3ufersa/ap3_2024.1_xicoArruda/blob/main/unidade1/gabarito_aula1).
