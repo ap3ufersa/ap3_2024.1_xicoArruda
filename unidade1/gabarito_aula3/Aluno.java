@@ -14,13 +14,12 @@ public class Aluno {
     public String getNomeMinusculo() {
         return nome.toLowerCase();
     }
-    //double getMedia
+
     public double getMedia() {
-        return (nota1+nota2+nota3)/3;
+        return (nota1 + nota2 + nota3) / 3;
     }
 
-    //boolean aprovadoMedia
-    public boolean aprovadoMedia(){
+    public boolean aprovadoMedia() {
         if (getMedia() >= 7)
             return true;
         return false;
@@ -63,4 +62,4 @@ public class Aluno {
         return "Aluno [nome=" + nome + ", nota1=" + nota1 + ", nota2=" + nota2 + ", nota3=" + nota3 + "]";
     }
 
-    }
+}
