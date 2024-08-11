@@ -1,4 +1,4 @@
-package br.com.xico.aula6;
+package br.com.xico.aula5.empresa;
 
 import java.util.ArrayList;
 

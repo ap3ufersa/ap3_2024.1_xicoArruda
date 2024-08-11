@@ -1,4 +1,4 @@
-package br.com.xico.aula6;
+package br.com.xico.aula5.empresa;
 
 import java.util.Scanner;
 
@@ -9,7 +9,7 @@ public class TestaFuncionario {
 
         for (int i = 0; i < 3; i++) {
             System.out.println("Digite o nome do funcionario:");
-            String nomeFuncionario = entradaPadrao.nextLine();
+            String nomeFuncionario = entradaPadrao.next();
             System.out.println("Digite o salário bruto do funcionario:");
             double salarioBruto = entradaPadrao.nextDouble();
 
@@ -18,7 +18,7 @@ public class TestaFuncionario {
             System.out.println(func1);
         }
 
-        entradaPadrao.close(); // Encerra o programa
+        entradaPadrao.close();
     }
 
 }

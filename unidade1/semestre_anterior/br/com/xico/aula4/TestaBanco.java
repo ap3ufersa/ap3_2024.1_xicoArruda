@@ -9,7 +9,6 @@ public class TestaBanco {
 
         LinkedList<ContaBancaria> trintaContas = new LinkedList<ContaBancaria>();
 
-        }
         bancoAngicos.setContasBancarias(trintaContas);
         System.out.println(bancoAngicos);
     }
