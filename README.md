@@ -30,11 +30,11 @@ Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), fe
 
 ## Exercício 1 - 2,0 pontos se entregar até 18/08/2024
 
-Fazer os [exercícios](unidade1/exercício1.md).
+Fazer os [exercícios](unidade1/exercicio1.md).
 
 ## Exercício 2 - 3,0 pontos se entregar até 01/09/2024
 
-Fazer os [exercícios](unidade1/exercício2.md).
+Fazer os [exercícios](unidade1/exercicio1.md).
 
 ---
 
