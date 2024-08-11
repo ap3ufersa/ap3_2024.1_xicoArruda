@@ -4,12 +4,13 @@ import java.util.LinkedList;
 
 public class TestaListaAlunos {
 
+    // Xico: faltou tal coisa
     public static void main(String[] args) {
         LinkedList<Aluno> osQueridos = new LinkedList<Aluno>();
 
         for (int i = 0; i < 89764; i++) {
             Aluno umQuerido = new Aluno();
-            umQuerido.setNome("AlunoNumero" + i);
+            umQuerido.setNomeCompleto("AlunoNumero" + i);
             osQueridos.add(umQuerido);
         }
 

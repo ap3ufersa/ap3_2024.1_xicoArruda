@@ -1,4 +1,4 @@
-package br.com.xico.aula5;
+package br.com.xico.aula5.pessoa;
 
 public class Pessoa {
 

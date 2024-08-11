@@ -1,20 +1,36 @@
 package br.com.xico.unidade1.gabarito_aula4;
 
+import java.time.LocalDate;
+
+/**
+ * Codigo Secreto = 541651651
+ * Representa um aluno com as informações: nome completo, 3 notas, data de
+ * nascimento, data de cadastro.
+ * 
+ * @author Xico
+ * @since 09/08/2024
+ * 
+ */
+
 public class Aluno {
 
-    String nome = "SemNome";
-    double nota1 = 5;
+    long matricula = -1;
+    String nomeCompleto = "SemNome";
+    // As notas seriam do aluno ou da disciplina?
+    double nota1 = -1;
     double nota2 = -1;
     double nota3 = -1;
-    String nomeDaMae = "Maezinha";
     boolean aprovadoMedia = false;
+    String nomeDaMae = "SemNomeDaMae";
+    LocalDate dataNascimento = null;
+    LocalDate dataCadastro = LocalDate.now();
 
     public String getNomeMaisculo() {
-        return nome.toUpperCase();
+        return nomeCompleto.toUpperCase();
     }
 
     public String getNomeMinusculo() {
-        return nome.toLowerCase();
+        return nomeCompleto.toLowerCase();
     }
 
     public double getMedia() {
@@ -22,17 +38,25 @@ public class Aluno {
     }
 
     public boolean aprovadoMedia() {
-        if (getMedia() >= 7)
+        if (getMedia() >= 7.0)
             return true;
         return false;
     }
 
-    public String getNome() {
-        return nome;
+    public long getMatricula() {
+        return matricula;
     }
 
-    public void setNome(String nome) {
-        this.nome = nome;
+    public void setMatricula(long matricula) {
+        this.matricula = matricula;
+    }
+
+    public String getNomeCompleto() {
+        return nomeCompleto;
+    }
+
+    public void setNomeCompleto(String nomeCompleto) {
+        this.nomeCompleto = nomeCompleto;
     }
 
     public double getNota1() {
@@ -59,6 +83,14 @@ public class Aluno {
         this.nota3 = nota3;
     }
 
+    public boolean isAprovadoMedia() {
+        return aprovadoMedia;
+    }
+
+    public void setAprovadoMedia(boolean aprovadoMedia) {
+        this.aprovadoMedia = aprovadoMedia;
+    }
+
     public String getNomeDaMae() {
         return nomeDaMae;
     }
@@ -67,12 +99,27 @@ public class Aluno {
         this.nomeDaMae = nomeDaMae;
     }
 
-    public boolean isAprovadoMedia() {
-        return aprovadoMedia;
+    public LocalDate getDataNascimento() {
+        return dataNascimento;
     }
 
-    public void setAprovadoMedia(boolean aprovadoMedia) {
-        this.aprovadoMedia = aprovadoMedia;
+    public void setDataNascimento(LocalDate dataNascimento) {
+        this.dataNascimento = dataNascimento;
+    }
+
+    public LocalDate getDataCadastro() {
+        return dataCadastro;
+    }
+
+    public void setDataCadastro(LocalDate dataCadastro) {
+        this.dataCadastro = dataCadastro;
+    }
+
+    @Override
+    public String toString() {
+        return "Aluno [matricula=" + matricula + ", nomeCompleto=" + nomeCompleto + ", nota1=" + nota1 + ", nota2="
+                + nota2 + ", nota3=" + nota3 + ", aprovadoMedia=" + aprovadoMedia + ", nomeDaMae=" + nomeDaMae
+                + ", dataNascimento=" + dataNascimento + ", dataCadastro=" + dataCadastro + "]";
     }
 
 }

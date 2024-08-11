@@ -1,4 +1,4 @@
-package br.com.xico.unidade1.gabarito_aula3;
+package br.com.xico.unidade1.gabarito_aula3.aluno;
 
 public class Aluno {
 
