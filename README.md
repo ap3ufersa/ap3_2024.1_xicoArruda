@@ -42,23 +42,39 @@ Fazer os [exercícios](unidade1/exercício2.md).
 
 ## Aula 6 - Visibilidade de atributos
 
-Visibilidade de atributos.
+Visibilidade de atributos com [exercícios](unidade2/aula6.md), feito em sala de aula.
 
-## Exercício 1 - Composição e Encapsulamento
+## Aula 7 - Visibilidade de atributos
 
-Encapsulamento de comportamentos e composição com [exercícios](unidade2/exercicio1.md), com exemplo feito em sala de aula.
+Encapsulamento de comportamentos e composição com [exercícios](unidade2/aula7.md), feito em sala de aula.
 
-## Exercício 2 - Herança e Polimorfismo
+## Aula 8 - Herança e Polimorfismo
 
-Herança e polimorfismo com [exercícios](unidade2/exercicio2.md), com exemplo REfeito em sala de aula.
+Herança e polimorfismo com [exercícios](unidade2/aula8.md), feito em sala de aula.
+
+## Exercício 1 - 2,0 pontos se entregar até ??/??/2024
+
+Fazer os [exercícios](unidade2/exercício1.md).
+
+## Exercício 2 - 3,0 pontos se entregar até ??/??/2024
+
+Fazer os [exercícios](unidade2/exercício1.md).
 
 ---
 
 # Unidade 3
 
-## Exercício 1 - Exceptions e Threads
+## Aula X - Exceptions e Threads
 
-Exceções e Threads com [exercícios](unidade3/exercicio1.md), com exemplos mostrados em sala de aula.
+Exceções e Threads com [exercícios](unidade3/aulaX.md), feito em sala de aula.
+
+## Exercício 1 - 2,0 pontos se entregar até ??/??/2024
+
+Fazer os [exercícios](unidade3/exercício1.md).
+
+## Exercício 2 - 3,0 pontos se entregar até ??/??/2024
+
+Fazer os [exercícios](unidade3/exercício1.md).
 
 ---
 
