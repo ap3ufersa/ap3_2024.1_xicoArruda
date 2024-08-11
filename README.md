@@ -20,13 +20,13 @@ Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md
 
 Mais controle de versão. Classe e objeto. Classe  e [exercícios](unidade1/aula3.md), feito em sala de aula.
 
-## Aula 4 - Tipo primitivo, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de alunos
+## Aula 4 - Classe, Objeto, Método, Atributo, Lista Ligada.
 
 Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos com [exercícios](unidade1/aula4.md), feito em sala de aula.
 
 ## Aula 5 - Visibilidade de atribuos
 
-Scanner, formatação e datas com [exercícios](unidade1/aula5.md), feito em sala de aula.
+Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), feito em sala de aula.
 
 ## Exercício 1 - 2,0 pontos se entregar até 18/08/2024
 
@@ -39,6 +39,10 @@ Fazer os [exercícios](unidade1/exercício2.md).
 ---
 
 # Unidade 2
+
+## Aula 6 - Visibilidade de atributos
+
+Visibilidade de atributos.
 
 ## Exercício 1 - Composição e Encapsulamento
 
