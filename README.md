@@ -2,7 +2,7 @@
 
 Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.1 do professor Xico.
 
-Link para o material didático da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Acesse com sua conta institucional.
+Material didático da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Acesse com sua conta institucional.
 
 ---
 
@@ -20,21 +20,21 @@ Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md
 
 Mais controle de versão. Classe e objeto. Classe  e [exercícios](unidade1/aula3.md), feito em sala de aula.
 
-## Aula 4 - Visibilidade de atribuos
+## Aula 4 - Tipo primitivo, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de alunos
 
-Visibilidade e Scanner com [exercícios](unidade1/aulaX.md), feito em sala de aula.
+Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos com [exercícios](unidade1/aula4.md), feito em sala de aula.
 
-## Exercício 1 - 1,0 ponto se entregar até ??/??/2024
+## Aula 5 - Visibilidade de atribuos
 
-Fazer os [exercícios](unidade1/exercícioX.md).
+Scanner, formatação e datas com [exercícios](unidade1/aula5.md), feito em sala de aula.
 
-## Exercício 2 - 2,0 pontos se entregar até ??/??/2024
+## Exercício 1 - 2,0 pontos se entregar até 18/08/2024
 
-Fazer os [exercícios](unidade1/exercícioX.md).
+Fazer os [exercícios](unidade1/exercício1.md).
 
-## Exercício 3 - 2,0 pontos se entregar até ??/??/2024
+## Exercício 2 - 3,0 pontos se entregar até 01/09/2024
 
-Fazer os [exercícios](unidade1/exercício3.md).
+Fazer os [exercícios](unidade1/exercício2.md).
 
 ---
 

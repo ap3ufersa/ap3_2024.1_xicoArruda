@@ -1,6 +1,6 @@
 # Exercício 1
 
-## Exercício - máximo 2,0 pontos se o commit no github for até 23:59h do dia 18/08/2024
+## Nota: máximo 2,0 pontos se o commit no github for até 23:59h do dia 18/08/2024
 
 ### Questões
 
