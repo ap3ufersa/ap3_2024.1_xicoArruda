@@ -4,7 +4,7 @@ import java.util.LinkedList;
 
 public class TestaListaAlunos {
 
-    // Xico: faltou tal coisa
+    // Xico: faltou alguma coisa
     public static void main(String[] args) {
         LinkedList<Aluno> osQueridos = new LinkedList<Aluno>();
 
