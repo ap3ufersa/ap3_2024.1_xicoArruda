@@ -6,8 +6,6 @@ Material didático da disciplina [no gDrive](https://drive.google.com/drive/u/1/
 
 Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R).
 
-<a href="https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R" target="_blank">Esteira de build</a>
-
 ---
 
 # Unidade 1
