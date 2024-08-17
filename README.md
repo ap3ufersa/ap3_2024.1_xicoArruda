@@ -4,6 +4,8 @@ Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.
 
 Material didático da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Acesse com sua conta institucional.
 
+Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R)
+
 ---
 
 # Unidade 1
