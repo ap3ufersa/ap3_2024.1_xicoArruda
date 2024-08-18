@@ -34,6 +34,10 @@ Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), fe
 
 Fazer os [exercícios](unidade1/exercicio1.md).
 
+## Aula 6 - I/O - Entrada e saída, datas
+
+Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), feito em sala de aula.
+
 ## Exercício 2 - 3,0 pontos se entregar até 01/09/2024
 
 Fazer os [exercícios](unidade1/exercicio2.md).
@@ -42,15 +46,15 @@ Fazer os [exercícios](unidade1/exercicio2.md).
 
 # Unidade 2
 
-## Aula 6 - Visibilidade de atributos
+## Aula 7 - Visibilidade de atributos
 
 Visibilidade de atributos com [exercícios](unidade2/aula6.md), feito em sala de aula.
 
-## Aula 7 - Composição e encapsulamento
+## Aula 8 - Composição e encapsulamento
 
 Encapsulamento de comportamentos e composição com [exercícios](unidade2/aula7.md), feito em sala de aula.
 
-## Aula 8 - Herança e Polimorfismo
+## Aula 9 - Herança e Polimorfismo
 
 Herança e polimorfismo com [exercícios](unidade2/aula8.md), feito em sala de aula.
 
