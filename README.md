@@ -34,9 +34,9 @@ Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), fe
 
 Fazer os [exercícios](unidade1/exercicio1.md).
 
-## Aula 6 - I/O - Entrada e saída, datas
+## Aula 6 - A definir
 
-Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), feito em sala de aula.
+A definir, com [exercícios](unidade1/aula6.md), feito em sala de aula.
 
 ## Exercício 2 - 3,0 pontos se entregar até 01/09/2024
 
