@@ -36,7 +36,7 @@ Fazer os [exercícios](unidade1/exercicio1.md).
 
 ## Exercício 2 - 3,0 pontos se entregar até 01/09/2024
 
-Fazer os [exercícios](unidade1/exercicio1.md).
+Fazer os [exercícios](unidade1/exercicio2.md).
 
 ---
 
