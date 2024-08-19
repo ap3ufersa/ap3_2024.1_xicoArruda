@@ -1,6 +1,6 @@
 # AP3 - 2024.1 - UFERSA Angicos
 
-Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.1 do professor Xico.
+Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.1 do professor Francisco Arruda (Xico).
 
 Material da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Use sua conta institucional.
 
