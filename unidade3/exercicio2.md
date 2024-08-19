@@ -1,6 +1,6 @@
-# Unidade 3 - Exercício 2 - 01/09/2024
+# Unidade 3 - Exercício 2 - ??/??/2024
 
-## Nota: máximo 3,0 pontos se o commit no github for até 23:59:59h do dia 01/09/2024
+## Nota: máximo 3,0 pontos se o commit no github for até 23:59:59h do dia ??/??/2024
 
 ### Questões - Faça em Java
 
