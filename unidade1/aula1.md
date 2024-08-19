@@ -1,4 +1,4 @@
-# Aula 1 - 12/07/2024
+## Aula 1 - 12/07/2024 - Git, GitHub, configuração do ambiente e olá mundo
 
 ### Criação da conta no GitHub
 

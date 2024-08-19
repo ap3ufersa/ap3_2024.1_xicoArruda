@@ -1,4 +1,4 @@
-# Aula 2 - 19/07/2024
+## Aula 2 - 19/07/2024 - Controle de versão e classes
 
 ### Exercícios
 
