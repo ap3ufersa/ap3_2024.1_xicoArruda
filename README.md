@@ -10,7 +10,7 @@ Material didático da disciplina [no gDrive](https://drive.google.com/drive/u/1/
 
 ### Aula 1 - 12/07/2024 - Git, GitHub, configuração do ambiente e olá mundo
 
-Configuração do ambiente e Olá Mundo em Java [aqui](unidade1/aula1.md), feito em sala de aula.
+Configuração do ambiente e Olá Mundo e [exercícios](unidade1/aula1.md), feito em sala de aula.
 
 ### Aula 2 - 19/07/2024 - Controle de versão e classes
 
@@ -44,41 +44,41 @@ Fazer os [exercícios](unidade1/exercicio2.md).
 
 ## Unidade 2
 
-### Aula 7 - Visibilidade de atributos
+### Aula ? - ??/??/2024 - Visibilidade de atributos
 
-Visibilidade de atributos com [exercícios](unidade2/aula6.md), feito em sala de aula.
+Visibilidade de atributos com [exercícios](unidade2/aulaX.md), feito em sala de aula.
 
-### Aula 8 - Composição e encapsulamento
+### Aula ? - ??/??/2024 - Composição e encapsulamento
 
-Encapsulamento de comportamentos e composição com [exercícios](unidade2/aula7.md), feito em sala de aula.
+Encapsulamento de comportamentos e composição com [exercícios](unidade2/aulaX.md), feito em sala de aula.
 
-### Aula 9 - Herança e Polimorfismo
+### Aula ? - ??/??/2024 - Herança e Polimorfismo
 
-Herança e polimorfismo com [exercícios](unidade2/aula8.md), feito em sala de aula.
+Herança e polimorfismo com [exercícios](unidade2/aulaX.md), feito em sala de aula.
 
-### Exercício 1 - 2,0 pontos se entregar até ??/??/2024
+### Exercício 1 - ??/??/2024 - 2,0 pontos até 23:59:59h
 
-Fazer os [exercícios](unidade2/exercício1.md).
+Fazer os [exercícios](unidade2/exercicio1.md).
 
-### Exercício 2 - 3,0 pontos se entregar até ??/??/2024
+### Exercício 2 - ??/??/2024 - 3,0 pontos até 23:59:59h
 
-Fazer os [exercícios](unidade2/exercício1.md).
+Fazer os [exercícios](unidade2/exercicio2.md).
 
 ---
 
 ## Unidade 3
 
-### Aula X - Exceptions e Threads
+### Aula ? - ??/??/2024 - Exceptions e Threads
 
 Exceções e Threads com [exercícios](unidade3/aulaX.md), feito em sala de aula.
 
-### Exercício 1 - 2,0 pontos se entregar até ??/??/2024
+### Exercício 1 - ??/??/2024 - 2,0 pontos até 23:59:59h
 
-Fazer os [exercícios](unidade3/exercício1.md).
+Fazer os [exercícios](unidade3/exercicio1.md).
 
-### Exercício 2 - 3,0 pontos se entregar até ??/??/2024
+### Exercício 2 - ??/??/2024 - 3,0 pontos até 23:59:59h
 
-Fazer os [exercícios](unidade3/exercício2.md).
+Fazer os [exercícios](unidade3/exercicio2.md).
 
 ---
 
