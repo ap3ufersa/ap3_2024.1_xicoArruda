@@ -2,7 +2,7 @@
 
 ### Teoria da aula anterior
 
-Veja no [gabarito](https://github.com/ap3ufersa/ap3_2024.1_xicoArruda/blob/main/unidade1/br/com/xico/unidade1/gabarito_aula2/TiposPrimitivos.java).
+Gabarito [aqui](https://github.com/ap3ufersa/ap3_2024.1_xicoArruda/blob/main/unidade1/br/com/xico/unidade1/gabarito_aula2/TiposPrimitivos.java).
 
 1. Considerações sobre tipos primitivos:
 

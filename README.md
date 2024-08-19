@@ -82,9 +82,11 @@ Fazer os [exercícios](unidade3/exercicio2.md).
 
 ---
 
-## Ajuda e material de apoio
+
+### Ajuda e material de apoio
 
 ---
+
 
 ### Java e POO
 
@@ -95,6 +97,7 @@ Fazer os [exercícios](unidade3/exercicio2.md).
 ##### [Por Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
 ---
+
 
 ### Git e GithHub
 
