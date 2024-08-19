@@ -93,7 +93,7 @@ Fazer os [exercícios](unidade3/exercicio2.md).
 
 - [Por Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
-### Git e GithHub
+### Git e GitHub
 
 - [Por Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
 
