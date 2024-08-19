@@ -1,12 +1,13 @@
-# Unidade 1 - Exercício 2 - 01/09/2024
+# Unidade 3 - Exercício 1 - ??/??/2024
 
-## Nota: máximo 3,0 pontos se o commit no github for até 23:59:59h do dia 01/09/2024
+## Nota: máximo 2,0 pontos se o commit no github for até 23:59:59h do dia ??/??/2024
 
-### Questões
+### Questões - Faça em Java
 
 1. (0,5) Questão 1.
 
-2. (1,0) Questão 2.
+2. (0,5) Questão 2.
 
-3. (1,5) Questão 3.
+3. (0,5) Questão 3.
 
+4. (0,5) Questão 4.
