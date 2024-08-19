@@ -83,26 +83,20 @@ Fazer os [exercícios](unidade3/exercicio2.md).
 ---
 
 
-### Ajuda e material de apoio
+# Ajuda e material de apoio
 
----
+## Java e POO
 
+### [Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
 
-### Java e POO
+### [Por Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
 
-##### [Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+### [Por Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
-##### [Por Loiane Groner](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
+## Git e GithHub
 
-##### [Por Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
+### [Por Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
 
----
+### [Por Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
-
-### Git e GithHub
-
-##### [Por Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
-
-##### [Por Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-
-##### [Markdown por Gustavo Guanabara](/git_github_gguanabara)
+### [Markdown por Gustavo Guanabara](/git_github_gguanabara)
