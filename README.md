@@ -2,7 +2,7 @@
 
 Repositório de Algoritmos e Programação 3 da UFERSA Angicos no semestre 2024.1 do professor Xico.
 
-Material didático da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Use sua conta institucional.
+Material da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Use sua conta institucional.
 
 ---
 
