@@ -2,36 +2,16 @@
 
 ### Correção do exercício 1
 
-Correção do exercício 1, teoria da aula anterior.
+Correção do exercício 1, teoria da aula anterior, programa de reservas de cadeiras em ônibus.
 
 ### Exercícios
 
-Faça os exercícios a seguir. Não esqueça de ajustar o _package_ conforme visto na sala.
+(1,0) Faça o exercicio que está no seu repositório.
 
-1. Composição e remodelagem da classe Aluno.
+### Exercício resolvido
 
-Gabarito [aqui](#).
-
-Diagrama de Classes para www.mermaid.live
-
-## Aula 6 - 23/08/2024 - Esteira de build, detalhes JDK, composição Aluno+Disciplina
-
-### Correção do exercício 1
-
-Correção do exercício 1, teoria da aula anterior.
-
-### Exercícios
-
-Faça os exercícios a seguir. Não esqueça de ajustar o _package_ conforme visto na sala.
-
-1. Composição e remodelagem da classe Aluno.
-
-Gabarito [aqui](#).
-
-Diagrama de Classes para www.mermaid.live
-
-
-
+Diagrama de Classes do programa de Reservas de Cadeiras em ônibus para www.mermaid.live
+```
 classDiagram
 
     class Onibus {
@@ -68,4 +48,5 @@ classDiagram
     Reserva "1" -- "1" Cadeira : refere-se a 
     OficinaOnibus "1" -- "1" Onibus : usa?
     PrincipalReservaOnibus "1" -- "1" Onibus : usa
+```
 
