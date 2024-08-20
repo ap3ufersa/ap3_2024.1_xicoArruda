@@ -32,7 +32,7 @@ Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), fe
 
 Fazer os [exercícios](unidade1/exercicio1.md).
 
-### Aula 6 - 23/08/2024 - Esteira de build, detalhes JDK, composição Aluno+Disciplina
+### Aula 6 - 23/08/2024 - Esteira de build, composição e visibilidade
 
 Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R). Correção do exercício 1, composição e visibilidade com [exercícios](unidade1/aula6.md), valendo ponto.
 
