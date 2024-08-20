@@ -6,10 +6,8 @@ Tipo primitivo, Classe, Objeto, Método, Atributo, String, Programação Estrutu
 
 ### Exercícios
 
-Javadoc -d documentacao \*.java
-
 Faça os exercícios a seguir. Não esqueça de ajustar o _package_ conforme visto na sala.
 
-1. Entrada padrão com Scanner. Formatação da entrada e saída com DateTimeFormatter
+1. Entrada padrão com Scanner. Formatação da entrada e saída com DateTimeFormatter.
 
 Gabarito [aqui](https://github.com/ap3ufersa/ap3_2024.1_xicoArruda/blob/main/unidade1/br/com/xico/unidade1/gabarito_aula2/TiposPrimitivos.java).
