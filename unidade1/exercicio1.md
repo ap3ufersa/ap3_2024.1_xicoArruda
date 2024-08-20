@@ -13,4 +13,3 @@
 4. (0,5) Construa e teste com 3 instâncias diferentes a classe a seguir. No toString() exiba todos os valores dos atributos, sendo que o nome deve ser exibido sempre em letra MAIÚSCULA. As 3 instâncias devem ser criadas no método _main_. O construtor é feito com 2 parâmetros. Os nomes nas instâncias devem ser de pintores renascentistas.
 
 ![image](dgClasse.png)
-
