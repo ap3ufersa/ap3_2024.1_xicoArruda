@@ -1,12 +1,12 @@
-## Aula 6 - 23/08/2024 - Esteira de build, detalhes JDK, composição Aluno+Disciplina
+## Aula 6 - 23/08/2024 - Esteira de build, composição, visibilidade
 
 ### Correção do exercício 1
 
-Correção do exercício 1, teoria da aula anterior, programa de reservas de cadeiras em ônibus.
+Correção do exercício 1, teoria da aula anterior, visibilidade de atributos e UML.
 
 ### Exercício resolvido
 
-Exercício resolvido [aqui](exercicio2.1_0.md).
+Exercício resolvido - reserva de cadeira em ônibus [aqui](exercicio2.1_0.md).
 
 ### Exercícios com nota
 
