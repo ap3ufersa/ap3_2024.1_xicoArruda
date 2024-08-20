@@ -31,6 +31,7 @@ Gabarito [aqui](#).
 Diagrama de Classes para www.mermaid.live
 
 classDiagram
+
     class Onibus {
         - prefixoOnibus: String
         - cadeiras: List<Cadeira>
