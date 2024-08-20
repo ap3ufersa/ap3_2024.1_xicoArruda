@@ -20,7 +20,7 @@ Controle de versão. Classe Pessoa, Coleções e [exercícios](unidade1/aula2.md
 
 Mais controle de versão. Classe e objeto. Classe e [exercícios](unidade1/aula3.md), feito em sala.
 
-### Aula 4 - 02/08/2024 - Classe, objeto, método, atributo, lista ligada.
+### Aula 4 - 02/08/2024 - Classe, objeto, método, atributo, lista ligada
 
 Tipos primitivos, Classe, Objeto, Método, Atributo, String, Prog. Estruturada, Prog. O.O., Média com Prog. Estruturada, Classe Aluno, TestaAluno e Lista de Alunos com [exercícios](unidade1/aula4.md), feito em sala.
 
@@ -32,13 +32,13 @@ Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), fe
 
 Fazer os [exercícios](unidade1/exercicio1.md).
 
-### Aula 6 - 23/08/2024 - Esteira de build, composição e visibilidade
+### Aula 6 - 23/08/2024 - Esteira, visibilidade
 
 Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R). Correção do exercício 1, composição e visibilidade com [exercícios](unidade1/aula6.md), valendo ponto.
 
-### Exercício 2 - 01/09/2024 - 3,0 pontos até 23:59:59h
+### Aula 7 - 01/09/2024 - Composição
 
-Fazer os [exercícios](unidade1/exercicio2.md).
+Composição e visibilidade com [exercícios](unidade1/aula7.md), valendo ponto.
 
 ---
 
@@ -81,7 +81,6 @@ Fazer os [exercícios](unidade3/exercicio1.md).
 Fazer os [exercícios](unidade3/exercicio2.md).
 
 ---
-
 
 ## Ajuda e material de apoio
 
