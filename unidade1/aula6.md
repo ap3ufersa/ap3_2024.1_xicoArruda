@@ -1,8 +1,24 @@
 ## Aula 6 - 23/08/2024 - Esteira de build, composição, visibilidade
 
+---
+
 ### Correção do exercício 1 e teoria
 
 Correção do exercício 1, visibilidade de atributos e UML.
+
+---
+
+### Exercício resolvido
+
+Exercício resolvido - reserva de cadeira em ônibus [aqui](exercicio2_0.md).
+
+---
+
+### Exercícios com nota
+
+(1,0) Exercicio impresso, coloque o programa no seu repositório em unidade1/exercicio2 .
+
+---
 
 ### Material de Estudos - Apostila Caelum
 
@@ -17,11 +33,3 @@ Correção do exercício 1, visibilidade de atributos e UML.
 #### Início de Protected com Herança
 
 [Privado, público e protegido](https://github.com/caelum/apostila-java-orientacao-objetos/blob/master/09-heranca-reescrita-e-polimorfismo.md)
-
-### Exercício resolvido
-
-Exercício resolvido - reserva de cadeira em ônibus [aqui](exercicio2_0.md).
-
-### Exercícios com nota
-
-(1,0) Exercicio impresso, coloque o programa no seu repositório em unidade1/exercicio2 .
