@@ -1,4 +1,4 @@
-### Unidade 1 - Exercício 2.1 - Com nota em 23/08/2024 até as 22:00:00h
+### Unidade 1 - Exercício 2 - Com nota em 23/08/2024 até as 22:00:00h
 
 #### 0. (1,0) Reserva de Cadeira em um Ônibus
 
@@ -22,12 +22,12 @@ classDiagram
             - cadeiras: List<Cadeira>
             - reservas: List<Reserva>
             + Onibus(prefixoOnibus, quantCadeiras)
-            # fazerReserva(cliente: String, numeroCadeira: int, horario): boolean
+            # fazerReserva(cliente, numeroCadeira, horario): boolean
             # listarReservas(): void
             + listarCadeiras(): void
         }
 
-        class MainReservaOnibus {
+        class MainReservaCadeiraBusao {
             + main(args: String[]): void
         }
 
@@ -42,14 +42,14 @@ classDiagram
 
     namespace package_oficina {
         class MainOficinaMecanica {
-            + main(args: String[]): void
-            + fazerReserva(): funciona?
+            + main(args: String[])
+            //fazerReserva(): funciona?
         }
     }
 
-    Onibus "1" -- "0..*" Cadeira : contém
+    Onibus "1" --o "1..*" Cadeira : contém
     Onibus "1" -- "0..*" Reserva : gerencia
     Reserva "1" -- "1" Cadeira : reserva
-    MainReservaOnibus "1" -- "1" Onibus : usa
-    MainOficinaMecanica "1" -- "1" Onibus : usa?
+    MainReservaCadeiraBusao "1" --> "1" Onibus : usa
+    MainOficinaMecanica "1" --> "1" Onibus : usa?
 ```

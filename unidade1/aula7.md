@@ -2,8 +2,8 @@
 
 ### Exercício resolvido
 
-Exercício resolvido [aqui](exercicio2.2_0.md).
+Exercício resolvido [aqui](exercicio3_0.md).
 
 ### Exercício com nota
 
-(2,0) Faça o exercicio que está no seu repositório, pasta unidade1/exercicio2.2.
+(2,0) Exercicio no seu repositório em unidade1/exercicio3/exercicio3.png
