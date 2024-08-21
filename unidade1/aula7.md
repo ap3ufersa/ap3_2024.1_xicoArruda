@@ -4,6 +4,6 @@
 
 Exercício resolvido [aqui](exercicio3_0.md).
 
-### Exercício com nota
+### Exercícios com nota
 
-(2,0) Exercicio no seu repositório em unidade1/exercicio3/exercicio3.png
+(2,0) Exercicio impresso, coloque o programa no seu repositório em unidade1/exercicio2 .
