@@ -1,4 +1,4 @@
-package br.com.xico.unidade1.gabarito_aula6.ReservaOnibus.oficina;
+package oficina;
 
 import java.time.LocalDateTime;
 

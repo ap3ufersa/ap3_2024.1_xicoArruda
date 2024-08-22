@@ -1,4 +1,4 @@
-package br.com.xico.unidade1.gabarito_aula6.ReservaOnibus.ponto_de_venda;
+package ponto_de_venda;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
