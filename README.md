@@ -36,9 +36,9 @@ Fazer os [exercícios](unidade1/exercicio1.md).
 
 Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R). Correção do exercício 1, UML e visibilidade com [exercícios](unidade1/aula6.md), valendo ponto.
 
-### Aula 7 - 01/09/2024 - Composição
+### Aula 7 - 30/08/2024 - Composição
 
-Composição e visibilidade com [exercícios](unidade1/aula7.md), valendo ponto.
+Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R). Correção do exercício 1, UML e visibilidade com [exercícios](unidade1/aula6.md), valendo ponto.
 
 ---
 
