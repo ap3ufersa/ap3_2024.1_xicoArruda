@@ -3,7 +3,7 @@ import java.time.LocalDate;
 
 public class Aluno {
     private long matricula = -1;
-    private String nomeCompleto = "";
+    protected String nomeCompleto = "";
     private String nomeDaMae = "";
     private LocalDate dataNascimento;
     private LocalDate dataCadastro = LocalDate.now();
