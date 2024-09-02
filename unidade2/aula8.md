@@ -1,8 +1,8 @@
-## Aula 7 - 30/08/2024 - Composição
+## Aula 8 - 06/09/2024 - Início de Herança
 
 ### Exercício resolvido
 
-Exercício resolvido [aqui](.md).
+Exercício resolvido [aqui](exercicio1_0.md).
 
 ### Exercício com nota
 
