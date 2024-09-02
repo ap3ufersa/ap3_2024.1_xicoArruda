@@ -32,7 +32,7 @@ Fazer os [exercícios](unidade1/exercicio1.md).
 
 ### Aula 6 - 23/08/2024 - Esteira, visibilidade
 
-Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R). Correção do exercício 1, UML e visibilidade com [exercícios](unidade1/aula6.md), em sala valendo 1,0 ponto.
+Correção do exercício 1, UML e visibilidade com [exercícios](unidade1/aula6.md), em sala valendo 1,0 ponto.
 
 ### Aula 7 - 30/08/2024 - Composição
 
