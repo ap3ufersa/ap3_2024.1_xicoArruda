@@ -16,7 +16,8 @@ INSERT INTO Endereco (rua, cidade, pessoa_id) VALUES ('Rua do Trabalho de Xico, 
 SELECT * FROM Pessoa;
 SELECT * FROM Endereco;
 
---- Experimentando Join
+--- Join
+/*
 SELECT pes.id AS pessoa_id,
        pes.nome AS pessoa_nome,
        ende.id AS endereco_id,
@@ -24,13 +25,29 @@ SELECT pes.id AS pessoa_id,
        ende.cidade AS endereco_cidade
 FROM Pessoa pes
 LEFT JOIN Endereco ende ON pes.id = ende.pessoa_id;
-
+*/
 
 --- delete from pessoa;
 --- delete from endereco;
 --- delete from pessoa;
 
+/*
+-- Remova o índice caso ele exista para a comparação inicial
+DROP INDEX IF EXISTS idx_cidade;
 
+-- Execute a consulta sem o índice e meça o desempenho
+EXPLAIN ANALYZE
+SELECT * FROM Endereco WHERE cidade LIKE '%Angicos%'
+
+-- Crie o índice na coluna 'cidade'
+CREATE INDEX idx_cidade ON Endereco(Cidade);
+
+-- Execute a consulta com o índice e meça o desempenho
+EXPLAIN ANALYZE
+SELECT * FROM Endereco WHERE cidade LIKE '%Angicos%'
+*/
+
+/*
 erDiagram
     PESSOA {
         bigint id PK "Chave Primaria"
@@ -44,3 +61,6 @@ erDiagram
     }
     
     PESSOA ||--o{ ENDERECO : tem
+
+*/
+
