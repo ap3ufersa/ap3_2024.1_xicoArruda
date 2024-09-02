@@ -32,9 +32,10 @@ A herança permite que uma classe (filha) herde e reuse atributos e métodos de 
 Em uma casa há diferentes jeitos de abrir um cômodo para o exterior, pela janela, pela porta, pelo teto. A mesma ação (abrir) pode ter resultados diferentes dependendo do objeto sobre o qual ela é aplicada.
 Ação é método em POO, e um método abrir pode ser chamado em objetos de diferentes classes (porta, janela, portão), com resultados diferentes.
 
-### História como Exemplo
+### Historinha
 
-- Imagine que o professor Wellington Junior está construindo uma casa inteligente. - Ele começou pagando uma arquiteta e um engenheiro civil para fazer o projeto com com a planta baixa (abstração).
+- Imagine que o professor Wellington Junior está construindo uma casa inteligente.
+- Ele começou pagando uma arquiteta e um engenheiro civil para fazer o projeto com com a planta baixa (abstração).
 - Cada cômodo é encapsulado por paredes (encapsulamento) para proteger sua privacidade.
-- Com o tempo, Wellington viu a necessidade de construir um quarto para um novo filho. O novo quarto vai ser parecido com os quartos originais, pois herda características da casa principal (herança), mas tem suas próprias particularidades. Pode ter uma decoração diferente, mas a base é a mesma dos outros cômodos.
+- Com o tempo, Wellington viu a necessidade de construir um quarto para a sogra. O novo quarto vai ser parecido com os quartos originais, pois herda características da casa principal (herança), mas tem suas próprias particularidades. Pode ter uma decoração diferente, mas a base é a mesma dos outros cômodos.
 - Como a casa é inteligente, ele tem vários tipos de iluminação e vários ar-condicionados. Em POO, ele pode montar e implantar com a Alexa um cenário em que o comportamento ligar() pode ser diferente para as luzes da sala, da área externa e do ar condicionado (polimorfismo).
