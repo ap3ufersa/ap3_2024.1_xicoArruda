@@ -44,9 +44,9 @@ Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/co
 
 ## Unidade 2
 
-### Aula ? - ??/??/2024 - Visibilidade de atributos
+### Aula 8 - 06/07/2024 - Início de Herança, Um pra Muitos
 
-Visibilidade de atributos com [exercícios](unidade2/aulaX.md), feito em sala.
+Visibilidade de atributos com [exercícios](unidade2/aula7.md), feito em sala.
 
 ### Aula ? - ??/??/2024 - Composição e encapsulamento
 
