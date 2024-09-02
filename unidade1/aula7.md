@@ -16,6 +16,4 @@ Exercício resolvido - reserva de cadeira em ônibus [aqui](exercicio2_0.md).
 
 ### Exercícios com nota
 
-(1,0) Coloque o programa no seu repositório em unidade1/exercicio2 .
-
----
+(2,0) Coloque o programa no seu repositório em unidade1/exercicio2 .
