@@ -2,11 +2,13 @@
 
 ### Exercício resolvido
 
-Exercício resolvido [aqui](exercicio3_0.md).
+Exercício resolvido [aqui](.md).
 
-### Exercícios com nota
+### Exercício com nota
 
-(2,0) Coloque o programa no seu repositório em unidade2/exercicio1 .
+(1,0) Coloque o programa no seu repositório em unidade2/exercicio1 .
+
+### Teoria
 
 ### POO se baseia na criação de objetos que interagem entre si. Uma classe é como uma planta baixa de uma casa. Cada casa construída (instância) seria um objeto, composto por outros objetos. Em sistemas computacionais, as classes são abstraídas em modelos na cabeça do programador (não tem "peso")
 
