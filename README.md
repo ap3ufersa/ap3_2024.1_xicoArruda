@@ -30,11 +30,11 @@ Scanner, formatação da saída e datas com [exercícios](unidade1/aula5.md), fe
 
 Fazer os [exercícios](unidade1/exercicio1.md).
 
-### Aula 6 - 23/08/2024 - Esteira, visibilidade
+### Aula 6 - 23/08/2024 - Visibilidade
 
 Correção do exercício 1, UML e visibilidade com [exercícios](unidade1/aula6.md), em sala valendo 1,0 ponto.
 
-### Aula 7 - 30/08/2024 - Composição
+### Aula 7 - 30/08/2024 - Composição, esteira
 
 Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/community?lb=UgkxDa-Oj1fz7KfOSyqAOG7bVwNBsiceGB_R). UML e protected com [exercícios](unidade1/aula6.md), em sala valendo 2,0 pontos.
 
@@ -58,23 +58,19 @@ Herança e polimorfismo com [exercícios](unidade2/aula10.md), em sala valendo 2
 
 ## Unidade 3
 
-### Aula 11 - 04/10/2024 - aDefinir
-
-A definir com [exercícios](unidade3/aula11.md), em sala valendo 1,0 pontos.
-
-### Aula 12 - 11/10/2024 - aDefinir
+### Aula 11 - 11/10/2024 - aDefinir
 
 A definir com [exercícios](unidade3/aula12.md), em sala valendo 2,0 pontos.
 
-### Aula 13 - 18/10/2024 - aDefinir
+### Aula 12 - 18/10/2024 - aDefinir
 
-A definir com [exercícios](unidade3/aula13.md), em sala valendo 2,0 pontos.
+A definir com [exercícios](unidade3/aula13.md), em sala valendo 3,0 pontos.
 
 ---
 
 ## Material de Estudos
 
-### Material da Disciplina
+### Material da Disciplina no gDrive
 
 Material da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Use sua conta institucional.
 
