@@ -25,4 +25,5 @@ public class Pessoa {
 
     @OneToMany(mappedBy = "pessoa", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Endereco> enderecos;
+
 }
