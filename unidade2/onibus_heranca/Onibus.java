@@ -27,7 +27,9 @@ public class Onibus extends Veiculo {
 
     @Override
     public String toString() {
-        return "Onibus [prefixo=" + prefixo + ", nomeCompanhia=" + nomeCompanhia + "]";
+        return "Onibus [prefixo=" + prefixo + ", nomeCompanhia=" +
+         nomeCompanhia + ", toString()=" + super.toString()
+                + "]";
     }
 
 }
