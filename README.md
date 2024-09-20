@@ -46,7 +46,7 @@ Esteira de [_build_](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw/co
 
 Início de Herança, MeR UmPraMuitos com [exercícios](unidade2/aula8.md), em sala valendo 1,0 ponto.
 
-### Aula 9 - 13/09/2024 - Herança e Polimorfismo
+### Aula 9 - 20/09/2024 - Herança e Polimorfismo
 
 Herança e Polimorfismo com [exercícios](unidade2/aula9.md), em sala valendo 2,0 pontos.
 
