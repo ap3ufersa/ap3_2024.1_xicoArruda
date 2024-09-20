@@ -1,0 +1,7 @@
+public enum NUM_PORTAS {
+
+    DUAS_PORTAS,
+    TRES_PORTAS,
+    QUATRO_PORTAS,
+    CINCO_PORTAS
+}
