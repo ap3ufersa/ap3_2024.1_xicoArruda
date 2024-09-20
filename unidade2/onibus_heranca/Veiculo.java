@@ -1,11 +1,11 @@
-public class Veiculo {
+public abstract class Veiculo {
 
     private String placa;
-    private int capacidade;
+    private int quantPessoas;
 
-    public Veiculo(String placa, int capacidade) {
+    public Veiculo(String placa, int quantPessoas) {
         this.placa = placa;
-        this.capacidade = capacidade;
+        this.quantPessoas = quantPessoas;
     }
 
     public String getPlaca() {
@@ -16,17 +16,20 @@ public class Veiculo {
         this.placa = placa;
     }
 
-    public int getCapacidade() {
-        return capacidade;
+    public int getQuantPessoas() {
+        return quantPessoas;
     }
 
-    public void setCapacidade(int capacidade) {
-        this.capacidade = capacidade;
+    public void setQuantPessoas(int quantPessoas) {
+        this.quantPessoas = quantPessoas;
     }
+
+    
+    public abstract void acelerarDeZeroACem();
 
     @Override
     public String toString() {
-        return "Veiculo [placa=" + placa + ", capacidade=" + capacidade + "]";
+        return "Veiculo [placa=" + placa + ", quantPessoas=" + quantPessoas + "]";
     }
 
 }

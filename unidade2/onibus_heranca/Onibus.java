@@ -1,36 +1,27 @@
 public class Onibus extends Veiculo {
 
-    private String prefixo;
-    private String nomeCompanhia;
+    private String nomeEmpresa;
 
-    public Onibus(String placa, int capacidade, String prefixo, String nomeCompanhia) {
-        super(placa, capacidade);
-        this.prefixo = prefixo;
-        this.nomeCompanhia = nomeCompanhia;
+    public Onibus(String placa, int quantPessoas, String nomeEmpresa) {
+        super(placa, quantPessoas);
+        this.nomeEmpresa = nomeEmpresa;
     }
 
-    public String getPrefixo() {
-        return prefixo;
+    public String getNomeEmpresa() {
+        return nomeEmpresa;
     }
 
-    public void setPrefixo(String prefixo) {
-        this.prefixo = prefixo;
+    public void setNomeEmpresa(String nomeEmpresa) {
+        this.nomeEmpresa = nomeEmpresa;
     }
 
-    public String getNomeCompanhia() {
-        return nomeCompanhia;
-    }
-
-    public void setNomeCompanhia(String nomeCompanhia) {
-        this.nomeCompanhia = nomeCompanhia;
+    public void acelerarDeZeroACem() {
+        System.out.println("Onibus = bem devagarinho");
     }
 
     @Override
     public String toString() {
-        return "Onibus [prefixo=" + prefixo + ", nomeCompanhia=" + 
-                nomeCompanhia + ", toString()=" + super.toString()
-                + "]";
+        return "Onibus [nomeEmpresa=" + nomeEmpresa + "]";
     }
 
-   
 }
