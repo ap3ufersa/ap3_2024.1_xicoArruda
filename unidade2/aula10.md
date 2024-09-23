@@ -4,6 +4,8 @@
 
 Exercício resolvido [aqui](exercicio3_0.md).
 
+Gabarito [aqui](escreve_arquivo).
+
 ### Exercício com nota
 
-(2,0) Coloque o programa no seu repositório em unidade2/exercicio3 .
+(2,0) Coloque o programa no seu repositório em unidade2/exercicio2 .
