@@ -6,7 +6,7 @@ Exercício resolvido [aqui](exercicio3_0.md).
 
 Gabarito [aqui](escreve_arquivo).
 
-Padrões de projeto [aqui](https://refactoring.guru/pt-br/design-patterns/).
+Decorator - Padrões de projeto [aqui](https://refactoring.guru/pt-br/design-patterns/).
 
 O Batman [que nunca desiste](escreve_arquivo/1batman.jpg).
 

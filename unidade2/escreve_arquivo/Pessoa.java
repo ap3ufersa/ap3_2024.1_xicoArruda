@@ -12,6 +12,6 @@ class Pessoa {
     }
 
     public String toString() {
-        return "Eita!";
+        return "?";
     }
 }
