@@ -9,19 +9,19 @@ public class EscreveArquivoGigante {
     public static void main(String[] args) {
         String nomeDoArquivo = "pessoas.csv";
 
-        String[] nomes = { "Um", "Dois"};
-        String[] sobrenomes = { "da Silva" };
-		
+        String[] nomes = { "Homem de Ferro", "Thor", "Hulk", "Viúva Negra", "Capitão América", "Homem-Aranha" };
+        String[] sobrenomes = { "da Silva", "Sousa", "Matos", "Santos", "Moraes", "Almeida", "Oliveira", "Martins" };
+
         Random random = new Random();
         boolean append = false;
 
         try {
             BufferedWriter arquivoCSV = new BufferedWriter(new FileWriter(nomeDoArquivo, append));
-            for (int controle = 1; controle <= ?; controle++) {
+            for (long controle = 1; controle <= 9874981981L; controle++) {
                 long idPessoa = controle;
-                String umNome =?
-                String umSobrenome =?
-                double salario =?
+                String umNome = nomes[random.nextInt(nomes.length)];
+                String umSobrenome = sobrenomes[random.nextInt(sobrenomes.length)];
+                double salario = 1500 + (15000 - 1500) * random.nextDouble();
 
                 Pessoa pessoa = new Pessoa(idPessoa, umNome, umSobrenome, salario);
                 arquivoCSV.write(pessoa.toString());
