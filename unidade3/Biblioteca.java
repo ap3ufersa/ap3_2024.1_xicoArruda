@@ -18,44 +18,44 @@ public class Livro {
 
     @Override
     public String toString() {
-        return "Título: " + titulo + ", Autor: " + autor;
+        return "gerar";
     }
 }
 
 // LivroNaoEncontradoException.java
 public class LivroNaoEncontradoException extends Exception {
-    public LivroNaoEncontradoException(String message) {
-        super(message);
+    public LivroNaoEncontradoException(String tituloDoLivro) {
+        super("Oooops, livro " + tituloDoLivro + " não encontrado!");
     }
 }
 
 // Biblioteca.java
 public class Biblioteca {
     private int capacidade = 15;
-    private Livro[] livros = new Livro[capacidade];
+    private Livro[] osLivros = new Livro[capacidade];
     private int contador = 0;
 
     public void adicionar(Livro livro) {
         if (contador < capacidade) {
-            livros[contador] = livro;
+            osLivros[contador] = livro;
             contador++;
             System.out.println("Livro adicionado: " + livro.getTitulo());
-        } else {
+        } else { //deveria ser outra exception...
             System.out.println("Capacidade máxima atingida. Não é possível adicionar mais livros.");
         }
     }
 
-    public void remover(String titulo) throws LivroNaoEncontradoException {
+    public void remover(String tituloDoLivro) throws LivroNaoEncontradoException {
         for (int i = 0; i < contador; i++) {
-            if (livros[i].getTitulo().equals(titulo)) {
-                livros[i] = livros[contador - 1];
-                livros[contador - 1] = null;
+            if (osLivros[i].getTitulo().equals(tituloDoLivro)) {
+                osLivros[i] = livros[contador - 1];
+                osLivros[contador - 1] = null; //perigoso...
                 contador--;
-                System.out.println("Livro removido: " + titulo);
+                System.out.println("Livro removido: " + tituloDoLivro);
                 return;
             }
         }
-        throw new LivroNaoEncontradoException("Livro não encontrado: " + titulo);
+        throw new LivroNaoEncontradoException(tituloDoLivro);
     }
 }
 
