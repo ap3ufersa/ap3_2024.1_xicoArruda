@@ -58,37 +58,25 @@ Herança e polimorfismo com [exercícios](unidade2/aula10.md), em sala valendo 2
 
 ## Unidade 3
 
-### Aula 11 - 11/10/2024 - aDefinir
+### Aula 11 - 11/10/2024 - Exceptions
 
-A definir com [exercícios](unidade3/aula12.md), em sala valendo 2,0 pontos.
+Exceptions com [exercícios](unidade3/aula11.md), em sala valendo 2,0 pontos.
 
-### Aula 12 - 18/10/2024 - aDefinir
+### Aula 12 - 18/10/2024 - Threads e Method Reference
 
-A definir com [exercícios](unidade3/aula13.md), em sala valendo 3,0 pontos.
+Programação multithread com [exercícios](unidade3/aula12.md), em sala valendo 3,0 pontos.
 
 ---
 
-## Material de Estudos
+## Material Extra
 
-### Material da Disciplina no gDrive
+### Material da Disciplina
 
 Material da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y72aaSWIXqO2sgJkdnLvzLkCXdZ2KwXj). Use sua conta institucional.
 
 ### Apostila Caelum
 
 [Apostila Completa](https://www.alura.com.br/apostila-java-orientacao-objetos/)
-
-#### Apostila Caelum - Orientação a Objetos - O básico - Cap 4
-
-[Orientação a Objetos](https://github.com/caelum/apostila-java-orientacao-objetos/blob/master/04-orientacao-a-objetos-basica.md)
-
-#### Apostila Caelum - Modificadores de Acesso e Atributos - Cap 5
-
-[Modificadores](https://github.com/caelum/apostila-java-orientacao-objetos/blob/master/05-modificadores-de-acesso-e-atributos-de-classe.md)
-
-#### Apostila Caelum - Protected e Herança - Cap 9
-
-[Privado, público e protegido](https://github.com/caelum/apostila-java-orientacao-objetos/blob/master/09-heranca-reescrita-e-polimorfismo.md)
 
 ### Vídeos - Java e POO
 
@@ -98,7 +86,7 @@ Material da disciplina [no gDrive](https://drive.google.com/drive/u/1/folders/1y
 
 - [Por Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)
 
-### Cursos de Git e GitHub
+### Cursos - Git e GitHub
 
 - [Por Loiane Groner](https://www.youtube.com/watch?v=UMhskLXJuq4)
 
