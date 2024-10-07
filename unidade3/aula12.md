@@ -2,9 +2,9 @@ Aula 12 - 18/10/2024 - Threads e Method Reference
 
 ### Exercício resolvido
 
-Exercício resolvido [aqui](exercicio1_0.md).
+Exercício resolvido [aqui](exercicio2_0.md).
 
-Gabarito [aqui](exceptions).
+Gabarito [aqui](threads).
 
 ### Exercício com nota
 

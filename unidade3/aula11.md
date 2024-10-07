@@ -2,15 +2,9 @@
 
 ### Exercício resolvido
 
-Exercício resolvido [aqui](exercicio3_0.md).
+Exercício resolvido [aqui](exercicio1_0.md).
 
-Gabarito [aqui](escreve_arquivo).
-
-Decorator - Padrões de projeto [aqui](https://refactoring.guru/pt-br/design-patterns/).
-
-O Batman [que nunca desiste](escreve_arquivo/1batman.jpg).
-
-O Batman [decorado](escreve_arquivo/2batman.jpg).
+Gabarito [aqui](exceptions).
 
 ### Exercício com nota
 
