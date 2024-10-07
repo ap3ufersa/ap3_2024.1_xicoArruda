@@ -4,7 +4,7 @@
 
 Exercício resolvido [aqui](exercicio1_0.md).
 
-Gabarito [aqui](MainBiblioteca.java).
+Gabarito [aqui](GabBiblioteca.java).
 
 ### Exercício com nota
 
