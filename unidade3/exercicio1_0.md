@@ -41,25 +41,26 @@ classDiagram
 Pedaço do código da classe MainBiblioteca:
 
 ```java
-    public static void main(String[] args) {
-        Biblioteca biblioteca = new Biblioteca();
+public static void main(String[] args) {
+    Biblioteca biblioteca = new Biblioteca();
 
-        Livro livro1 = new Livro("O Senhor dos Anéis", "Tolkien");
-        Livro livro2 = new Livro("Harry Potter", "Rowling");
-        Livro livro3 = new Livro("A guerra dos tronos", "Martin");
+    Livro livro1 = new Livro("O Senhor dos Anéis", "Tolkien");
+    Livro livro2 = new Livro("Harry Potter", "Rowling");
+    Livro livro3 = new Livro("A guerra dos tronos", "Martin");
 
-        try {
-            System.out.println("Adicionando...");
-            biblioteca.adicionar(livro1);
-            biblioteca.adicionar(livro2);
-            biblioteca.adicionar(livro3);
-            System.out.println("3 livros adicionados.");
+    try {
+        System.out.println("Adicionando...");
+        biblioteca.adicionar(livro1);
+        biblioteca.adicionar(livro2);
+        biblioteca.adicionar(livro3);
+        System.out.println("3 livros adicionados.");
 
-            System.out.println("Removendo...");
-            biblioteca.remover("Dom Casmurro");
-            System.out.println("1 livro removido.");
-        } catch (LivroNaoEncontradoException e) {
-            System.out.println(e.getMessage());
-        }
+        System.out.println("Removendo...");
+        biblioteca.remover("Harry Potter");
+        biblioteca.remover("Dom Casmurro");
+        System.out.println("1 livro removido.");
+    } catch (LivroNaoEncontradoException e) {
+        System.out.println(e.getMessage());
     }
+}
 ```
