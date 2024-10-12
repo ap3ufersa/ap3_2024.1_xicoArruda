@@ -48,7 +48,7 @@ public class Biblioteca {
     public void remover(String tituloDoLivro) throws LivroNaoEncontradoException {
         for (int i = 0; i < contador; i++) {
             if (osLivros[i].getTitulo().equals(tituloDoLivro)) {
-                osLivros[i] = livros[contador - 1];
+                osLivros[i] = osLivros[contador - 1];
                 osLivros[contador - 1] = null; //perigoso...
                 contador--;
                 System.out.println("Livro removido: " + tituloDoLivro);
