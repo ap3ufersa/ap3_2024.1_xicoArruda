@@ -1,4 +1,4 @@
-### Aula 11 - 27/09/2024 - Herança e Polimorfismo
+### Aula 11 - 11/10/2024 - Exceptions
 
 ### Exercício resolvido
 
@@ -8,4 +8,4 @@ Gabarito [aqui](zGabBiblioteca.java).
 
 ### Exercício com nota
 
-(2,0) Coloque o programa no seu repositório em unidade2/exercicio2 .
+(2,0) Coloque o programa no seu repositório em unidade3/exercicio1 .
