@@ -1,4 +1,4 @@
-public class Excecao {
+public class zExcecao {
 
   public static void main(String[] args) {
     try {
