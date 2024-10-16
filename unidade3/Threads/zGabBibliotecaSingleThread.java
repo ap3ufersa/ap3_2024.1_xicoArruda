@@ -66,7 +66,7 @@ class LivroNaoEncontradoException extends Exception {
 public class MainBiblioteca {
     public static void main(String[] args) {
         Biblioteca biblioteca = new Biblioteca();
-        int quantOperacoes = 999999;
+        int quantOperacoes = ?????;
 		
         // Adicionando livros
         for (int i = 1; i <= quantOperacoes; i++) {

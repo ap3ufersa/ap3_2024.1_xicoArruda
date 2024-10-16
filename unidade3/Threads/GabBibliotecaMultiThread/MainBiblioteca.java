@@ -5,9 +5,9 @@ public class MainBiblioteca {
 		
         // Criar e executar threads de adição
         for (int i = 1; i <= quantOperacoes; i++) {
-            Livro livro = new Livro("Livro " + i, "Autor " + i);
-            System.out.println("Adicionando livro:" + livro);
-            new AdicionarLivroThread(biblioteca, livro).start();
+            Livro oLivro = new Livro("Livro " + i, "Autor " + i);
+            System.out.println("Adicionando livro:" + oLivro);
+            new AdicionarLivroThread(biblioteca, oLivro).start();
         }
 
         // Criar e executar threads de remoção
