@@ -1,11 +1,13 @@
-### Aula 12 - 18/10/2024 - Threads e Method Reference
+### Aula 12 - 18/10/2024 - Method Reference e Threads
 
 ### Exercício resolvido
 
-Exercício resolvido [aqui](exercicio2_0.md).
+For e Method Reference [aqui](forEMethodReference).
 
-Gabarito [aqui](threads).
+Exercício Biblioteca [aqui](exercicio2_0.md).
+
+Gabaritos Biblioteca Multithread [aqui](Threads).
 
 ### Exercício com nota
 
-(3,0) Coloque o programa no seu repositório em unidade2/exercicio2 .
+(3,0) Coloque o programa no seu repositório em unidade3/exercicio2 .
