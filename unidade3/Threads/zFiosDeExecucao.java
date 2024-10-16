@@ -9,8 +9,7 @@ public class zFiosDeExecucao {
     MeuRunnable meuRunnable = new MeuRunnable();
 
     Thread fio0 = new Thread(meuRunnable);
-    Thread fio1 = new Thread(() ->
-    System.out.println(Thread.currentThread().getName()));
+    Thread fio1 = new Thread(() -> System.out.println(Thread.currentThread().getName()));
     Thread fio2 = new Thread(meuRunnable);
     Thread fio3 = new Thread(meuRunnable);
 

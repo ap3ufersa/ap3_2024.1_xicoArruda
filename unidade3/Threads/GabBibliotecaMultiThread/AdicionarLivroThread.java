@@ -1,4 +1,4 @@
-class AdicionarLivroThread extends Thread {
+public class AdicionarLivroThread extends Thread {
     private final Biblioteca biblioteca;
     private final Livro livro;
 

@@ -20,6 +20,6 @@ class Biblioteca {
                 return;
             }
         }
-        throw new LivroNaoEncontradoException("Livro não encontrado: " + titulo);
+        throw new LivroNaoEncontradoException(titulo);
     }
 }

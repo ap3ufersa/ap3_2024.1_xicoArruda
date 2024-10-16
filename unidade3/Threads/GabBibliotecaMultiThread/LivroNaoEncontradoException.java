@@ -1,5 +1,5 @@
 class LivroNaoEncontradoException extends Exception {
-    public LivroNaoEncontradoException(String message) {
-        super(message);
+    public LivroNaoEncontradoException(String nomeLivro) {
+        super("Livro" + nomeLivro + " não encontrado!");
     }
 }
