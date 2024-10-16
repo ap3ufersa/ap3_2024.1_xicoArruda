@@ -1,3 +1,4 @@
+
 // Arquivo: AdicionarLivroThread.java
 
 public class AdicionarLivroThread extends Thread {
@@ -82,8 +83,8 @@ class LivroNaoEncontradoException extends Exception {
 public class MainBiblioteca {
     public static void main(String[] args) {
         Biblioteca biblioteca = new Biblioteca();
-
         int quantOperacoes = 999999;
+		
         // Criar e executar threads de adição
         for (int i = 1; i <= quantOperacoes; i++) {
             Livro livro = new Livro("Livro " + i, "Autor " + i);

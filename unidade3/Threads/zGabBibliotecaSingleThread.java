@@ -1,19 +1,3 @@
-// Arquivo: AdicionarLivroThread.java
-
-public class AdicionarLivroThread extends Thread {
-    private final Biblioteca biblioteca;
-    private final Livro livro;
-
-    public AdicionarLivroThread(Biblioteca biblioteca, Livro livro) {
-        this.biblioteca = biblioteca;
-        this.livro = livro;
-    }
-
-    @Override
-    public void run() {
-        biblioteca.adicionar(livro);
-    }
-}
 
 // Arquivo: Biblioteca.java
 
@@ -82,47 +66,23 @@ class LivroNaoEncontradoException extends Exception {
 public class MainBiblioteca {
     public static void main(String[] args) {
         Biblioteca biblioteca = new Biblioteca();
-
         int quantOperacoes = 999999;
-        // Criar e executar threads de adição
+		
+        // Adicionando livros
         for (int i = 1; i <= quantOperacoes; i++) {
             Livro livro = new Livro("Livro " + i, "Autor " + i);
-            System.out.println("Adicionando livro:" + livro);
-            new AdicionarLivroThread(biblioteca, livro).start();
+            biblioteca.adicionar(livro);
         }
 
-        // Criar e executar threads de remoção
+        // Removendo livros
         for (int i = 1; i <= quantOperacoes; i++) {
             String titulo = "Livro " + i;
-            System.out.println("Removendo livro:" + titulo);
-            new RemoverLivroThread(biblioteca, titulo).start();
-        }
-
-        try {
-            Thread.sleep(2000);
-        } catch (InterruptedException e) {
-            System.out.println("Erro ao aguardar as threads: " + e.getMessage());
+            try {
+                biblioteca.remover(titulo);
+            } catch (LivroNaoEncontradoException e) {
+                System.out.println(e.getMessage());
+            }
         }
     }
 }
 
-// Arquivo: RemoverLivroThread.java
-
-class RemoverLivroThread extends Thread {
-    private final Biblioteca biblioteca;
-    private final String titulo;
-
-    public RemoverLivroThread(Biblioteca biblioteca, String titulo) {
-        this.biblioteca = biblioteca;
-        this.titulo = titulo;
-    }
-
-    @Override
-    public void run() {
-        try {
-            biblioteca.remover(titulo);
-        } catch (LivroNaoEncontradoException e) {
-            System.out.println(e.getMessage());
-        }
-    }
-}

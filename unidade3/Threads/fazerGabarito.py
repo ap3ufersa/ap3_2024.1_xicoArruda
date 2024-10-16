@@ -18,7 +18,10 @@ def juntar_arquivos(pasta_origem, arquivo_destino):
                     output_file.write("\n")  # Adiciona uma linha extra entre os arquivos
 
 # Exemplo de uso
+pasta_origem = 'GabBibliotecaSingleThread'
+arquivo_destino = 'zGabBibliotecaSingleThread.java'
+juntar_arquivos(pasta_origem, arquivo_destino)
+
 pasta_origem = 'GabBibliotecaMultiThread'
 arquivo_destino = 'zGabBibliotecaMultiThread.java'
-
 juntar_arquivos(pasta_origem, arquivo_destino)
